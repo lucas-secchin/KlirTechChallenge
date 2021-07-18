@@ -59,3 +59,39 @@ C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\a
 C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.csproj.CopyComplete
 C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\e4bar\Desktop\OneDrive\KlirStuff\_RH\Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.exe
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.deps.json
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.runtimeconfig.json
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.runtimeconfig.dev.json
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.pdb
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.csprojAssemblyReference.cache
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Klir.TechChallenge.Web.Api.StaticWebAssets.Manifest.cache
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\staticwebassets\Klir.TechChallenge.Web.Api.StaticWebAssets.xml
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.AssemblyInfoInputs.cache
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.AssemblyInfo.cs
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.RazorTargetAssemblyInfo.cache
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.csproj.CopyComplete
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.dll
+D:\LUCAS\_Prototipos\Klir Tech Challenge\KlirTechChallenge\aspnet-core\Klir.TechChallenge.Web.Api\obj\Debug\netcoreapp3.1\Klir.TechChallenge.Web.Api.pdb
