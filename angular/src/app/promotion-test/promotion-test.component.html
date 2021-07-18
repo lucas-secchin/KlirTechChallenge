@@ -1,0 +1,62 @@
+<h1>Checkout Test</h1>
+
+<h3>Available Products</h3>
+<p>Click on "+" button to add products to the Shopping Cart.</p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="products">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Price</th>
+      <th>Promotion</th>
+      <th>Add</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let product of products">
+      <td>{{ product.id }}</td>
+      <td>{{ product.name }}</td>
+      <td>€{{ product.price }}</td>
+      <td>{{ product.promotionName }}</td>
+      <td><button (click)="addProduct(product)" title="Add Product">+</button></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Shopping Cart</h3>
+<p>Click on "+" or "-" buttons to add or remove products to the Shopping Cart.</p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="shoppingCartList">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Quantity</th>
+      <th>Price</th>
+      <th>Total</th>
+      <th>Promotion Applied</th>
+      <th>Add</th>
+      <th>Remove</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of shoppingCartList">
+      <td>{{ item.product.name }}</td>
+      <td>{{ item.quantity }}</td>
+      <td>€{{ item.product.price }}</td>
+      <td>€{{ item.totalPrice }}</td>
+      <td>{{ item.promotionApplied ? item.product.promotionName : '' }}</td>
+      <td><button (click)="addItemQuantity(item)" title="Add Item">+</button></td>
+      <td><button (click)="removeItemQuantity(item)" title="Remove Item">-</button></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td><strong>Total</strong></td>
+      <td><strong>€{{ getTotalPrice() }}</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
